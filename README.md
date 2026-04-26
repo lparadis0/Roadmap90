@@ -1,29 +1,41 @@
-# Roadmap90
+## 90-Day Mission
 
-90-day plan to build technical skills in:
+Build job-ready IT skills and publish practical portfolio projects for entry-level IT support, operations and cybersecurity roles.
 
-- Linux
-- Cybersecurity
-- Artificial Intelligence
+## Month 1 — Linux Systems & CLI
 
-## Goal
+- Linux terminal workflow
+- File permissions and ownership
+- Process management
+- Networking diagnostics
+- Bash scripting fundamentals
 
-Build practical skills and create real projects to enter the IT/cybersecurity field.
+### Deliverables
 
-## Structure
+- Linux Security Baseline Project
+- Bash Automation Scripts
 
-- Month 1 → Linux fundamentals
-- Month 2 → Networking and cybersecurity basics
-- Month 3 → AI and automation
+## Month 2 — Networking & Security
 
-## Approach
+- TCP/IP fundamentals
+- DNS troubleshooting
+- System log analysis
+- UFW / Firewall rule management
+- SOC monitoring fundamentals
 
-Focus on hands-on practice, real labs and GitHub portfolio.
+### Deliverables
 
-## Related repositories
+- Home SOC Lab
+- Security Incident Report Samples
 
-- 42 Core (C & Shell)
-- 42 Python
-- 42 HTML/CSS/JS
-- 42 AI Module
-- cyber-labs (practical exercises)
+## Month 3 — Automation, Python & Productivity
+
+- Python scripting basics
+- Task automation workflows
+- AI-assisted documentation
+- Workflow automation systems
+
+### Deliverables
+
+- Python IT Automation Utility
+- Workflow Automation Project
